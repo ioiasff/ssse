@@ -207,6 +207,7 @@ function create_config( )
     "onservice",
     "inrealm",
     "ingroup",
+    "plugins",
     "inpm",
     "banhammer",
     "stats",
